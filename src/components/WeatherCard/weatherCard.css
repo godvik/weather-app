@@ -1,0 +1,19 @@
+.weather-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 1rem auto;
+    max-width: 300px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.weather-card__img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.weather-card__description {
+    font-size: 1rem;
+    color: #333;
+}
